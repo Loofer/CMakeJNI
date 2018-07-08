@@ -62,12 +62,16 @@ build_one
 ## 参考资料
 **编译FFmpeg4.0.1并移植到Android app中使用**
 [https://blog.csdn.net/bobcat_kay/article/details/80889398](https://blog.csdn.net/bobcat_kay/article/details/80889398)
-FFmpeg(3.3.2)移植Android平台
+
+**FFmpeg(3.3.2)移植Android平台**
 [https://blog.csdn.net/ywl5320/article/details/75040724](https://blog.csdn.net/ywl5320/article/details/75040724)
+
 **Mac下cmake编译FFmpeg-4.0**
 [https://blog.csdn.net/android_wql/article/details/80349714](https://blog.csdn.net/android_wql/article/details/80349714)
+
 **NDK下载地址**
 [https://developer.android.com/ndk/downloads/](https://developer.android.com/ndk/downloads/)
+
 **FFmpeg下载地址**
 [https://ffmpeg.org/download.html#releases](https://ffmpeg.org/download.html#releases)
 
